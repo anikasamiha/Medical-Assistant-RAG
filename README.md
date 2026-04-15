@@ -1,15 +1,13 @@
-# Medical-Assistant-RAG
-=======
-# 📅 AI Medical Assistant Chatbot — RAG-based Application
+# Medical-Assistant-RAG - AI Medical Assistant Chatbot — RAG-based Application
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This application is a **Medical Domain Chatbot** built using **Retrieval-Augmented Generation (RAG)**. It allows users to upload their own medical documents (e.g., textbooks, reports), and the system intelligently answers queries by retrieving the most relevant content before generating a final response.
 
 
-## 🔄 Basic Architecture
+## Basic Architecture
 
 ```
 User Input
@@ -36,7 +34,7 @@ LLM-generated Answer
 
 ---
 
-## 🌐 Tech Stack
+## Tech Stack
 
 | Component  | Tech Used                  |
 | ---------- | -------------------------- |
